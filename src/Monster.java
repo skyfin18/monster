@@ -6,7 +6,7 @@ public class Monster {
     public int speziala;
     public int spezialv;
     public int level;
-    public int glück;
+    public int glueck;
     public int moral;
     public static void main(String[] args) {
 
